@@ -18,6 +18,7 @@ public class JavaCalculator extends javax.swing.JFrame {
      */
     public JavaCalculator() {
         initComponents();
+		//more code...
     }
 
     /**
