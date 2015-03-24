@@ -18,6 +18,8 @@ public class CustomAdapterExActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 final Context context = CustomAdapterExActivity.this;
+
+Log.d("More","More changes");
     
     	ListView ls2 = new ListView(context);
      	
